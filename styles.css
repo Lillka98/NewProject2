@@ -12,7 +12,7 @@ body {
 }
 .logo, .menu {
   display: inline-block;
-  border: dashed 1px green;
+  border: dashed 1px blue;
 }
  .logo {
   margin-right: 63%;
