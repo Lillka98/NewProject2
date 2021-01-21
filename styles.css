@@ -8,7 +8,7 @@ body {
 .wrapper {
   margin:auto;
   width: 80%;
-  border: dashed 1px red;
+  border: dashed 1px black;
 }
 .logo, .menu {
   display: inline-block;
